@@ -22,6 +22,5 @@ go.work
 go.work.sum
 .vscode/*
 
-quake_log_parser
 
 reports/*
