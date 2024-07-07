@@ -1,6 +1,6 @@
 module github.com/jadson-medeiros/quake_log_parser
 
-go 1.17
+go 1.22.4
 
 require github.com/stretchr/testify v1.9.0
 
